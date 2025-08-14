@@ -27,7 +27,7 @@ I enjoy collaborating across disciplines, connecting industry needs with innovat
 
 
 ## Experience
-**FMV Isik University**, _Research Assistant_, Istanbul
+**Isik University**, _Research Assistant_, Istanbul
 `06/2018–present`
 - \- Assisted in the research of the granted BAP project: Development of an economical and innovative joining concept for hybrid materials that does not require filler material.
 - \- Managed Materials Science Laboratory, Measurements and Instrumentation, and Mechanical Engineering Labo-ratory courses. Supervised students in the laboratory, and graded laboratory reports.
