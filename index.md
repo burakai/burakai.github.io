@@ -8,23 +8,18 @@ Ph.D. Candidate, Istanbul Technical University
 Istanbul, Türkiye<br/>
 
 
+
 <div id="webaddress">
   <a href="https://burak.ai"><i class="fa-solid fa-house"></i> burak.ai</a> - 
   <a href="https://github.com/burakai"><i class="fa-brands fa-github"></i> burakai</a> - 
   <a href="https://www.linkedin.com/in/burakai/"><i class="fa-brands fa-linkedin"></i> burakai</a>
 </div>
 
-  <a href="mailto:mail@burak.ai">mail@burak.ai</a>
-  <br/>
-  <a href="https://release-assets.githubusercontent.com/github-production-release-asset/668041321/14a152f3-0782-407b-8f65-825f9630c9dd?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-08-14T05%3A40%3A17Z&rscd=attachment%3B+filename%3Dburak.pdf&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-08-14T04%3A40%3A02Z&ske=2025-08-14T05%3A40%3A17Z&sks=b&skv=2018-11-09&sig=xJGPFLAty6%2Fn3MBf8sPZyhObWttP8fk0HtOgbtbR8U0%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc1NTE0Njk4NywibmJmIjoxNzU1MTQ2Njg3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.WH0OiZcrtj8o7b6ZRw04fIM2eOMryQdMuOrCTT0Duc4&response-content-disposition=attachment%3B%20filename%3Dburak.pdf&response-content-type=application%2Foctet-stream" target="_blank" class="cv-button">
-    <i class="fa-solid fa-file-pdf"></i> Download CV
-  </a>
+  
 
+Ph.D. candidate in Mechanical Engineering at Istanbul Technical University, combining materials science, manufacturing, and AI to solve real-world problems. My work spans computer vision, IoT, and big data — from AI-powered quality inspection systems to precision agriculture solutions.
 
-<div id="webaddress">
-  <a href="https://release-assets.githubusercontent.com/github-production-release-asset/668041321/14a152f3-0782-407b-8f65-825f9630c9dd?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-08-14T05%3A40%3A17Z&rscd=attachment%3B+filename%3Dburak.pdf&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-08-14T04%3A40%3A02Z&ske=2025-08-14T05%3A40%3A17Z&sks=b&skv=2018-11-09&sig=xJGPFLAty6%2Fn3MBf8sPZyhObWttP8fk0HtOgbtbR8U0%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc1NTE0Njk4NywibmJmIjoxNzU1MTQ2Njg3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.WH0OiZcrtj8o7b6ZRw04fIM2eOMryQdMuOrCTT0Duc4&response-content-disposition=attachment%3B%20filename%3Dburak.pdf&response-content-type=application%2Foctet-stream" class="cv-button">
-</div>
-
+I enjoy collaborating across disciplines, connecting industry needs with innovative research, and turning ideas into working systems. Always open to new opportunities, partnerships, and challenging projects at the intersection of engineering and intelligent systems.
 
 ## Experience
 **Research Assistant**, *FMV Işık University*, Istanbul
@@ -105,32 +100,50 @@ Certified by the International Institute of Welding (IIW)
 
 `2023`
 **Yet Another Earthquake Project (YAEP)** – Earthquake visualization & correlation with electric field data (NiFi, Kafka, Spark, Kibana).
-- Tools & frameworks used: Apache NiFi, Apache Kafka, Apache Spark, AWS S3, Elasticsearch, Kibana
-<!-- Coordinated an end-to-end project focused on earthquake visualization and correlation analysis with electric field data. Led the team in utilizing a suite of Big Data Tools to seamlessly acquire, integrate, preprocess, analyze, and visualize the data. Leveraged real-time data streaming, advanced analytics, and interactive visualization techniques to uncover significant relationships between earthquakes and electric field data.
--->
+- \- Tools & frameworks used: Apache NiFi, Apache Kafka, Apache Spark, AWS S3, Elasticsearch, Kibana
+- \- Coordinated an end-to-end project focused on earthquake visualization and correlation analysis with electric field data. Led the team in utilizing a suite of Big Data Tools to seamlessly acquire, integrate, preprocess, analyze, and visualize the data. Leveraged real-time data streaming, advanced analytics, and interactive visualization techniques to uncover significant relationships between earthquakes and electric field data.
 
 `2023`
 **Multimodal MRI Data Segmentation Based on Swin-Unet** – Automated medical image segmentation.
+- \- Tools & frameworks used: PyTorch, Swin-Unet, SimpleITK
+- \- Studied automated medical image segmentation using the Swin-Unet model. Achieved accurate results through data preprocessing, training, and GPU acceleration.
 
 `2023`
 **Age Regression from Brain MRI Images** – Age estimation via regression models.
+- \- Tools & frameworks used: Scikit-learn, SimpleITK
+- \- Compared various regression models, this project aims to accurately estimate patients’ ages based on their brain MRI images, providing valuable insights into brain development, aging processes, age-related pathologies, and aiding in the early detection of neurodegenerative disorders in medical research and practice.
 
 `2022`
 **Weld Defect Detection Using U-Net** – Defect segmentation in weld X-ray images.
+- \- Tools & frameworks used: PyTorch, U-Net
+- \- Utilized the GDXray dataset, specifically for weld X-ray images, and implemented the U-Net architecture.
 
 `2016`
 **Flaw Detection in Radiographic Weld Images Using Morphological Approach** – Automated flaw detection in weld radiographs.
+- \- Tools & frameworks used: MATLAB, Image Processing Toolbox
+- \- Implemented an algorithm inspired by RS Anand and P Kumar’s research for flaw detection in radiographic weld images using a morphological approach. It aimed to provide an automated and robust method for flaw detection.
 
 ## Technical Skills and Interests
 
 ### Languages
-- Turkish (Native), English (Advanced)  
+- Turkish (Native), English (Advanced) 
 
 ### Developer Tools & Frameworks
 - Git, Docker, Linux/Bash _{i use vim btw :!q}_, SQL, AWS, Apache NiFi, Apache Kafka, Apache Spark, Elasticsearch, Kibana, Grafana, PyTorch, TensorFlow, Keras, OpenCV, Scikit-Learn, Albu-mentations, FastAPI, Streamlit  
 
 ### Domains of Interest
 - Materials Science, Smart Manufacturing, Artificial Intelligence, Computer Vision, Big Data Applications, IIoT, Precision Agriculture, AIoT
+
+### Research funding
+
+`2023-2027`
+**Academy Project**, *Academy of Finland*, Finland, 501 081€. Sole PI.<br/>
+EXploiting Thermochronometer sensitivity to RAdiation damage to quantify rates of Craton exhumation through Time (EXTRACT)
+
+`2021-2023`
+**Project funding**, *Renlund foundation*, Finland, 37 992€. Sole PI.<br/>
+Building quantitative links between geodynamics and metamorphism in the Paleoproterozoic: Insight into emplacement of orogenic gold deposits
+
 
 ## Licenses and Certificates
 
