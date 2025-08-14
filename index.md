@@ -7,13 +7,19 @@ Ph.D. Candidate, Istanbul Technical University
 
 Istanbul, Türkiye<br/>
 
-[📄 **Download CV (PDF)**](assets/Burak_Kilic_CV.pdf){: .btn .btn-primary target="_blank" }
+<div id="cv-download">
+  <a href="https://release-assets.githubusercontent.com/github-production-release-asset/668041321/14a152f3-0782-407b-8f65-825f9630c9dd?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-08-14T05%3A40%3A17Z&rscd=attachment%3B+filename%3Dburak.pdf&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-08-14T04%3A40%3A02Z&ske=2025-08-14T05%3A40%3A17Z&sks=b&skv=2018-11-09&sig=xJGPFLAty6%2Fn3MBf8sPZyhObWttP8fk0HtOgbtbR8U0%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc1NTE0Njk4NywibmJmIjoxNzU1MTQ2Njg3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.WH0OiZcrtj8o7b6ZRw04fIM2eOMryQdMuOrCTT0Duc4&response-content-disposition=attachment%3B%20filename%3Dburak.pdf&response-content-type=application%2Foctet-stream" target="_blank" class="cv-button">
+    <i class="fa-solid fa-file-pdf"></i> Download CV
+  </a>
+</div>
 
 <div id="webaddress">
   <a href="mailto:mail@burak.ai">mail@burak.ai</a>
   <a href="https://burak.ai"><i class="fa-solid fa-house"></i> burak.ai</a> - 
   <a href="https://github.com/burakai"><i class="fa-brands fa-github"></i> burakai</a> - 
   <a href="https://www.linkedin.com/in/burakai/"><i class="fa-brands fa-linkedin"></i> burakai</a>
+  <a href="assets/Burak_Kilic_CV.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i> Download CV</a>
+
 </div>
 
 
