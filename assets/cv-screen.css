@@ -55,28 +55,10 @@ body {
 	line-height: 1.5em;
 	font-family: Avenir,Verdana,sans-serif;
 	margin-top: 1em;
-	margin-left: 1em;
-}
-
-/* Ana içerik wrapper'ı - tüm içeriği hizalar */
-.content-wrapper {
-	position: relative;
-	max-width: 900px;
-	margin: 0 auto;
-	padding-left: 2em;
-	padding-right: 2em;
-}
-
-/* Dikey çizgi görselleştirmesi için */
-.content-wrapper::before {
-	content: '';
-	position: absolute;
-	left: 25%;
-	top: 0;
-	bottom: 0;
-	width: 1px;
-	background-color: #ddd;
-	z-index: -1;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1800px;
+	padding: 0 2em;
 }
 
 p {
@@ -84,7 +66,7 @@ p {
 	left: 25%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 70%; /* Genişlik artırıldı tarihlerin içeride kalması için */
+	width: 70%;
 	text-align: justify;
 	text-justify: inter-word;
 }
@@ -99,15 +81,15 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
-	right: 0; /* Paragrafın sağ kenarına hizalı */
+	right: 0;
 	top: 0;
-	white-space: nowrap; /* Tarihlerin alt satıra inmesini engeller */
+	white-space: nowrap;
 }
 
 ul { 
 	position: relative;
 	left: 25%;
-	width: 65%; /* Genişlik azaltıldı tarihlere yer açmak için */
+	width: 70%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
@@ -115,9 +97,9 @@ ul {
 li {
 	padding-left: 1.25em;
 	text-indent: -1.25em;
-	text-align: justify; /* Justify hizalama eklendi */
+	text-align: justify;
 	text-justify: inter-word;
-	margin-bottom: 0.3em; /* Liste öğeleri arası boşluk */
+	margin-bottom: 0.3em;
 }
 
 li ul {
@@ -139,7 +121,7 @@ h1 {
     line-height: 1em;
     position: relative;
     left: 25%;
-    width: 70%; /* Diğer içerikle tutarlı genişlik */
+    width: 70%;
     margin-bottom: 0.5em;
 }
 
@@ -156,7 +138,7 @@ h2 {
 	top: 1.4em;
 	text-align: right;
 	width: 20%;
-	padding-right: 1em; /* Dikey çizgiden uzaklık için */
+	padding-right: 1em;
 }
 
 h3 {
@@ -166,7 +148,7 @@ h3 {
 	top: 1.7em;
 	text-align: right;
 	width: 20%;
-	padding-right: 1em; /* Dikey çizgiden uzaklık için */
+	padding-right: 1em;
 }
 
 a {
@@ -205,32 +187,17 @@ strong {
 
 /* CV Header Styles */
 .cv-header {
-  max-width: 900px; /* content-wrapper ile tutarlı */
-  margin: 0 auto;
-  position: relative; 
-  display: flex;
-  align-items: flex-start;
-  margin-bottom: 2em;
-  padding-left: 2em;
-  padding-right: 2em;
-}
-
-.cv-header .header-info {
-  flex: 1;
-  min-width: 0;
-}
-
-.cv-header .header-info h1, 
-.cv-header .header-info p {
+  max-width: none;
   margin: 0;
-  padding: 0;
-  color: #000;
+  position: relative; 
+  display: block;
+  margin-bottom: 2em;
 }
 
 .cv-header .hover-elephant {
   position: absolute;
-  right: 0; /* Sağa tam dayalı */
-  top: -100px;
+  right: 0;
+  top: 0;
   z-index: 1;
   width: 200px;
   height: 200px;
@@ -246,15 +213,6 @@ strong {
 
 /* Responsive tasarım için */
 @media (max-width: 768px) {
-	.content-wrapper {
-		padding-left: 1em;
-		padding-right: 1em;
-	}
-	
-	.content-wrapper::before {
-		left: 30%;
-	}
-	
 	p, ul, h1, #webaddress {
 		left: 30%;
 		width: 65%;

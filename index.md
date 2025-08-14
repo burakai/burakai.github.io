@@ -151,7 +151,7 @@ Materials Science, Smart Manufacturing, Artificial Intelligence, Computer Vision
 - \- TensorFlow Developer Certificate (Google, 2023)  
 - \- CAPM Preparation Training (PMI TR–ITU, 2023)  
 - \- Introduction to Big Data with Spark and Hadoop (IBM, Coursera, 2023)
-- \- Introduction to Apache NiFi | Cloudera DataFlow – HDF 2.0 (Udemy, 2023)  
+- \- Introduction to Apache NiFi \| Cloudera DataFlow – HDF 2.0 (Udemy, 2023)  
 - \- Deep Learning Study Group (inzva, 2020)  
 - \- Elevator Inspector Personnel (TSE, 2017)  
 - \- Internal Auditor (KYS Consulting, 2014)  
