@@ -7,7 +7,7 @@ Ph.D. Candidate, Istanbul Technical University
 
 Istanbul, Türkiye<br/>
 
-
+<a href="mail@firstname.ai">mail@firstname.ai</a>
 
 <div id="webaddress">
   <a href="https://burak.ai"><i class="fa-solid fa-house"></i> burak.ai</a> - 
@@ -15,7 +15,7 @@ Istanbul, Türkiye<br/>
   <a href="https://www.linkedin.com/in/burakai/"><i class="fa-brands fa-linkedin"></i> burakai</a>
 </div>
 
-  
+<br/>  
 
 Ph.D. candidate in Mechanical Engineering at Istanbul Technical University, combining materials science, manufacturing, and AI to solve real-world problems. My work spans computer vision, IoT, and big data — from AI-powered quality inspection systems to precision agriculture solutions.
 
@@ -129,7 +129,7 @@ Certified by the International Institute of Welding (IIW)
 - Turkish (Native), English (Advanced) 
 
 ### Developer Tools & Frameworks
-- Git, Docker, Linux/Bash _{i use vim btw :!q}_, SQL, AWS, Apache NiFi, Apache Kafka, Apache Spark, Elasticsearch, Kibana, Grafana, PyTorch, TensorFlow, Keras, OpenCV, Scikit-Learn, Albu-mentations, FastAPI, Streamlit  
+Git, Docker, Linux/Bash _{i use vim btw :!q}_, SQL, AWS, Apache NiFi, Apache Kafka, Apache Spark, Elasticsearch, Kibana, Grafana, PyTorch, TensorFlow, Keras, OpenCV, Scikit-Learn, Albumentations, FastAPI, Streamlit  
 
 ### Domains of Interest
 - Materials Science, Smart Manufacturing, Artificial Intelligence, Computer Vision, Big Data Applications, IIoT, Precision Agriculture, AIoT
@@ -152,7 +152,8 @@ Building quantitative links between geodynamics and metamorphism in the Paleopro
 - \- Google Developers Machine Learning Bootcamp (Google–inzva, 2023)  
 - \- TensorFlow Developer Certificate (Google, 2023)  
 - \- CAPM Preparation Training (PMI TR–ITU, 2023)  
-- \- Introduction to Big Data with Spark and Hadoop (IBM, Coursera, 2023)  
+- \- Introduction to Big Data with Spark and Hadoop (IBM, Coursera, 2023)
+
 - \- Introduction to Apache NiFi | Cloudera DataFlow – HDF 2.0 (Udemy, 2023)  
 - \- Deep Learning Study Group (inzva, 2020)  
 - \- Elevator Inspector Personnel (TSE, 2017)  
