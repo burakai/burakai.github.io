@@ -50,7 +50,7 @@ I enjoy collaborating across disciplines, connecting industry needs with innovat
 - \- Successfully completed the development of the 3D printer, but the project was discontinued before creating the metal 3D printer due to a lack of grants or funding.
 
 `09/2014–09/2015`
-**Quality Control Engineer**, *Mast Metal Steel Construction*, Kocaeli  
+**Mast Metal Steel Construction**, _Quality Control Engineer_, Kocaeli  
 - \- Contributed to the establishment of the Quality Management System (QMS) at Mast Metal Steel Construction as the Management Representative.
 - \- Conducted inspections after welding, demonstrating a strong interest in quality control.
 - \- Worked closely with customers, primarily from IHI Corp., organizing inspections and planning NDT procedures. – Delivered accurate quality records in accordance with Inspection and Test Plans (ITPs).
@@ -128,24 +128,13 @@ Certified by the International Institute of Welding (IIW)
 ## Technical Skills and Interests
 
 ### Languages
-- Turkish (Native), English (Advanced) 
+Turkish (Native), English (Advanced) 
 
 ### Developer Tools & Frameworks
 Git, Docker, Linux/Bash _{i use vim btw :!q}_, SQL, AWS, Apache NiFi, Apache Kafka, Apache Spark, Elasticsearch, Kibana, Grafana, PyTorch, TensorFlow, Keras, OpenCV, Scikit-Learn, Albumentations, FastAPI, Streamlit  
 
 ### Domains of Interest
-- Materials Science, Smart Manufacturing, Artificial Intelligence, Computer Vision, Big Data Applications, IIoT, Precision Agriculture, AIoT
-
-### Research funding
-
-`2023-2027`
-**Academy Project**, *Academy of Finland*, Finland, 501 081€. Sole PI.<br/>
-EXploiting Thermochronometer sensitivity to RAdiation damage to quantify rates of Craton exhumation through Time (EXTRACT)
-
-`2021-2023`
-**Project funding**, *Renlund foundation*, Finland, 37 992€. Sole PI.<br/>
-Building quantitative links between geodynamics and metamorphism in the Paleoproterozoic: Insight into emplacement of orogenic gold deposits
-
+Materials Science, Smart Manufacturing, Artificial Intelligence, Computer Vision, Big Data Applications, IIoT, Precision Agriculture, AIoT
 
 ## Licenses and Certificates
 
