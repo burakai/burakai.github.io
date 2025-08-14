@@ -17,14 +17,6 @@ title: Burak Kılıç
 
 <img src="/media/mail.jpeg" alt="mail" width="300">
 
-
-# Burak Kılıç
-Ph.D. Candidate, Istanbul Technical University
-
-Istanbul, Türkiye<br/>
-
-<img src="/media/mail.jpeg" alt="mail" width="300">
-
 <div id="webaddress">
   <a href="https://burak.ai"><i class="fa-solid fa-house"></i> burak.ai</a> / 
   <a href="https://github.com/burakai"><i class="fa-brands fa-github"></i> burakai</a> / 

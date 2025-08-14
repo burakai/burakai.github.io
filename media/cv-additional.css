@@ -1,27 +1,41 @@
 /* Flexbox tabanlı başlık alanı */
 .cv-header {
+  /* YENİ EKLENENLER: Başlık alanını ortalar ve genişliğini sınırlar */
+  max-width: 1280px; /* Temanızın ana içerik genişliğiyle aynı */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1em;  /* Mobil cihazlarda kenara yapışmasını engeller */
+  padding-right: 1em; /* Mobil cihazlarda kenara yapışmasını engeller */
+
+  /* MEVCUT KOD */
   display: flex;
-  justify-content: space-between; /* Öğeleri (bilgi ve fil) iki yana yaslar */
-  align-items: flex-start;      /* Öğeleri dikeyde en üste hizalar */
-  margin-bottom: 1em;           /* Başlık ile sonraki içerik arasına boşluk */
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1em;
 }
 
 /* Başlık ve unvan bilgilerini içeren sol taraf */
 .header-info h1, .header-info p {
-  margin: 0; /* Tarayıcının eklediği varsayılan boşlukları kaldırır */
+  margin: 0;
   padding: 0;
 }
 
 /* Fil ikonu için güncellenmiş stiller */
 .hover-elephant {
+  /* YENİ EKLENEN: Tema'nın link stilini sıfırlar */
+  border: none !important;
+  text-decoration: none !important;
+  
+  /* MEVCUT KOD */
   width: 150px;
   height: 150px;
   display: block;
   background-image: url("/media/elephant.png");
   background-size: cover;
   background-position: center;
-  box-shadow: inset 0 0 0px 3px rgb(0 0 0);
-  flex-shrink: 0; /* Ekran daraldığında fil resminin küçülmesini engeller */
+  /* KUTU GÖLGESİ: Sadece bizim istediğimiz iç gölge kalacak şekilde düzenlendi */
+  box-shadow: inset 0 0 0px 3px rgb(0 0 0) !important; 
+  flex-shrink: 0;
 }
 
 .hover-elephant:hover {
