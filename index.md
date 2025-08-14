@@ -9,11 +9,11 @@ Istanbul, Türkiye<br/>
 
 <a href="mail@firstname.ai">mail@firstname.ai</a>
 
-![E-posta simgesi](/media/mail.jpg)
+![mail:](./media/mail.jpg)
 
 <br/>
 
-<img src="/media/mail.jpg" alt="E-posta simgesi" width="50">
+<img src="./media/mail.jpg" width="50">
 
 <div id="webaddress">
   <a href="https://burak.ai"><i class="fa-solid fa-house"></i> burak.ai</a> - 
@@ -26,6 +26,7 @@ Istanbul, Türkiye<br/>
 Ph.D. candidate in Mechanical Engineering at Istanbul Technical University, combining materials science, manufacturing, and AI to solve real-world problems. My work spans computer vision, IoT, and big data — from AI-powered quality inspection systems to precision agriculture solutions.
 
 I enjoy collaborating across disciplines, connecting industry needs with innovative research, and turning ideas into working systems. Always open to new opportunities, partnerships, and challenging projects at the intersection of engineering and intelligent systems.
+
 
 ## Experience
 **Research Assistant**, *FMV Işık University*, Istanbul
