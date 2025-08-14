@@ -3,7 +3,7 @@ layout: cv
 title: Burak Kılıç
 ---
 
-<a href="https://burak.ai"><img src="./media/elephant.png" style="width: 200px;height: 200px;position: absolute;right: 0%;box-shadow: inset 0 0 0px 3px rgb(0 0 0);z-index:1"> 
+<a href="https://github.com/burakai/curriculum-vitae/releases/download/v1.21.0/burak.pdf"><img src="./media/elephant.png" style="width: 200px;height: 200px;position: absolute;right: 0%;box-shadow: inset 0 0 0px 3px rgb(0 0 0);z-index:1"> 
 
 
 # Burak Kılıç
@@ -148,7 +148,6 @@ Materials Science, Smart Manufacturing, Artificial Intelligence, Computer Vision
 - \- TensorFlow Developer Certificate (Google, 2023)  
 - \- CAPM Preparation Training (PMI TR–ITU, 2023)  
 - \- Introduction to Big Data with Spark and Hadoop (IBM, Coursera, 2023)
-
 - \- Introduction to Apache NiFi | Cloudera DataFlow – HDF 2.0 (Udemy, 2023)  
 - \- Deep Learning Study Group (inzva, 2020)  
 - \- Elevator Inspector Personnel (TSE, 2017)  
