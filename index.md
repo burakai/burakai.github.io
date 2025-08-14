@@ -3,7 +3,7 @@ layout: cv
 title: Burak Kılıç
 ---
 
-<a href="https://dthornz.github.io/CV/"><img src="https://raw.githubusercontent.com/DThornz/CV/refs/heads/gh-pages/Logo_V1.png" style="width: 200px;height: 200px;position: absolute;right: 0%;box-shadow: inset 0 0 0px 3px rgb(0 0 0);z-index:1"> 
+<a href="https://burak.ai"><img src="./media/elephant.png" style="width: 200px;height: 200px;position: absolute;right: 0%;box-shadow: inset 0 0 0px 3px rgb(0 0 0);z-index:1"> 
 
 
 # Burak Kılıç
