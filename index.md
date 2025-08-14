@@ -6,9 +6,11 @@ title: Burak Kılıç's CV
 Ph.D. Candidate, Istanbul Technical University
 
 Istanbul, Türkiye<br/>
-<a href="mailto:mail@burak.ai">mail@burak.ai</a> - [github.com/burakai](https://github.com/burakai) - [linkedin.com/in/burakai](https://www.linkedin.com/in/burakai)
+
+[📄 **Download CV (PDF)**](assets/Burak_Kilic_CV.pdf){: .btn .btn-primary target="_blank" }
 
 <div id="webaddress">
+  <a href="mailto:mail@burak.ai">mail@burak.ai</a>
   <a href="https://burak.ai"><i class="fa-solid fa-house"></i> burak.ai</a> - 
   <a href="https://github.com/burakai"><i class="fa-brands fa-github"></i> burakai</a> - 
   <a href="https://www.linkedin.com/in/burakai/"><i class="fa-brands fa-linkedin"></i> burakai</a>
@@ -16,34 +18,34 @@ Istanbul, Türkiye<br/>
 
 
 ## Experience
-
+**Research Assistant**, *FMV Işık University*, Istanbul
 `06/2018–present`
 - Assisted in the research of the granted BAP project: Development of an economical and innovative joining concept for hybrid materials that does not require filler material.
 - Managed Materials Science Laboratory, Measurements and Instrumentation, and Mechanical Engineering Labo-ratory courses. Supervised students in the laboratory, and graded laboratory reports.
 - Assisted in the development of new course materials and assignments by writing and revising course materials, and developing new assignments and assessments.
 
 `02/2018–06/2020`
-**Robotics Instructor**, *Saint-Michel French High School*, Istanbul, Türkiye  
+**Robotics Instructor**, *Saint-Michel French High School*, Istanbul  
 - Led weekly Robotics Club sessions focused on Arduino-based projects, electronic circuit design, and programming fundamentals.
 - Guided students through hands-on problem-solving activities, fostering creativity, teamwork, and STEM skills development.
 
 `06/2017–01/2019`
-**Inspector**, *Turkish Standards Institution*, Istanbul, Türkiye  
+**Inspector**, *Turkish Standards Institution*, Istanbul  
 - Planned and executed inspections in accordance with instructions provided by TSE (Turkish Standards Institu-tion), harmonized standards (such as EN 81-1, EN 81-20, EN 81-70, etc.), and applicable legal regulations.
 - Conducted thorough inspections to assess the safety, functionality, and compliance of the inspected equipment or systems. Documented inspection findings and prepared comprehensive reports.
 
 `02/2016–07/2016`
-**Welding Engineer**, *Universal Certification*, Istanbul, Türkiye  
+**Welding Engineer**, *Universal Certification*, Istanbul  
 - Prepared and approved qualification documents, including Welding Procedure Specifications (WPS), Procedure Qualification Records (PQR), and Welder’s Test Certificates.
 - Worked extensively with various welding codes and standards, such as AWS D1.1, EN 1090, and ASME BPVC. – Conducted inspections and assessments to verify compliance with welding standards and codes.
 
 `09/2015–02/2016`
-**R&D Engineer**, *Merberk Engineering*, Istanbul, Türkiye  
+**R&D Engineer**, *Merberk Engineering*, Istanbul  
 - Involved in an R&D project to create a 3D printer and subsequently a unique 3D Metal Printer.
 - Successfully completed the development of the 3D printer, but the project was discontinued before creating the metal 3D printer due to a lack of grants or funding.
 
 `09/2014–09/2015`
-**Quality Control Engineer**, *Mast Metal Steel Construction*, Kocaeli, Türkiye  
+**Quality Control Engineer**, *Mast Metal Steel Construction*, Kocaeli  
 - Contributed to the establishment of the Quality Management System (QMS) at Mast Metal Steel Construction as the Management Representative.
 - Conducted inspections after welding, demonstrating a strong interest in quality control.
 - Worked closely with customers, primarily from IHI Corp., organizing inspections and planning NDT procedures. – Delivered accurate quality records in accordance with Inspection and Test Plans (ITPs).
@@ -77,9 +79,9 @@ Certified by the International Institute of Welding (IIW)
 
 `2025–present`
 **MARS: Marble Analysis & Robotic Slicing**, *Project Lead*
-- Developing an AI-powered marble inspection pipeline integrating a fixed imaging setup (industrial camera, lens, conveyor, lighting system) to preprocess, calibrate, and extract dimensionally accurate images for downstream segmentation and optimization tasks.
-- Implementing multi-stage segmentation and optimization algorithms to generate cutting plans that minimize waste, presented to operators for selection.
-- Deploying the system with real-time monitoring and a user interface on FastAPI, Docker and Streamlit, leveraging large-scale labeled data from expert marble selectors and operator feedback to iteratively improve model accuracy.
+- \- Developing an AI-powered marble inspection pipeline integrating a fixed imaging setup (industrial camera, lens, conveyor, lighting system) to preprocess, calibrate, and extract dimensionally accurate images for downstream segmentation and optimization tasks.
+- \- Implementing multi-stage segmentation and optimization algorithms to generate cutting plans that minimize waste, presented to operators for selection.
+- \- Deploying the system with real-time monitoring and a user interface on FastAPI, Docker and Streamlit, leveraging large-scale labeled data from expert marble selectors and operator feedback to iteratively improve model accuracy.
 
 `2024`
 **MOOZE** – Repository, *Personal Project*
@@ -95,7 +97,8 @@ Certified by the International Institute of Welding (IIW)
 `2023`
 **Yet Another Earthquake Project (YAEP)** – Earthquake visualization & correlation with electric field data (NiFi, Kafka, Spark, Kibana).
 - Tools & frameworks used: Apache NiFi, Apache Kafka, Apache Spark, AWS S3, Elasticsearch, Kibana
-– Coordinated an end-to-end project focused on earthquake visualization and correlation analysis with electric field data. Led the team in utilizing a suite of Big Data Tools to seamlessly acquire, integrate, preprocess, analyze, and visualize the data. Leveraged real-time data streaming, advanced analytics, and interactive visualization techniques to uncover significant relationships between earthquakes and electric field data.
+<!-- Coordinated an end-to-end project focused on earthquake visualization and correlation analysis with electric field data. Led the team in utilizing a suite of Big Data Tools to seamlessly acquire, integrate, preprocess, analyze, and visualize the data. Leveraged real-time data streaming, advanced analytics, and interactive visualization techniques to uncover significant relationships between earthquakes and electric field data.
+-->
 
 `2023`
 **Multimodal MRI Data Segmentation Based on Swin-Unet** – Automated medical image segmentation.
@@ -110,23 +113,25 @@ Certified by the International Institute of Welding (IIW)
 **Flaw Detection in Radiographic Weld Images Using Morphological Approach** – Automated flaw detection in weld radiographs.
 
 ## Technical Skills and Interests
-
-- **Languages:** Turkish (Native), English (Advanced)  
-- **Developer Tools & Frameworks:** Git, Docker, Linux/Bash, SQL, AWS, Apache NiFi, Kafka, Spark, Elasticsearch, Kibana, Grafana, PyTorch, TensorFlow, Keras, OpenCV, Scikit-Learn, Albumentations, FastAPI, Streamlit  
-- **Domains:** Materials Science, Smart Manufacturing, Artificial Intelligence, Computer Vision, Big Data, IIoT, Precision Agriculture, AIoT
+### Languages
+- Turkish (Native), English (Advanced)  
+### Developer Tools & Frameworks
+- Git, Docker, Linux/Bash, SQL, AWS, Apache NiFi, Kafka, Spark, Elasticsearch, Kibana, Grafana, PyTorch, TensorFlow, Keras, OpenCV, Scikit-Learn, Albumentations, FastAPI, Streamlit  
+### Domains of Interest
+- Materials Science, Smart Manufacturing, Artificial Intelligence, Computer Vision, Big Data, IIoT, Precision Agriculture, AIoT
 
 ## Licenses and Certificates
 
-- Driving Licenses: A, A1, A2, B, B1, D1, F, M  
-- CMAS ** SCUBA Diver, PADI Advanced Open Water Diver  
-- Google Developers Machine Learning Bootcamp (Google–inzva, 2023)  
-- TensorFlow Developer Certificate (Google, 2023)  
-- CAPM Preparation Training (PMI TR–ITU, 2023)  
-- Introduction to Big Data with Spark and Hadoop (IBM, Coursera, 2023)  
-- Introduction to Apache NiFi | Cloudera DataFlow – HDF 2.0 (Udemy, 2023)  
-- Deep Learning Study Group (inzva, 2020)  
-- Elevator Inspector Personnel (TSE, 2017)  
-- Internal Auditor (KYS Consulting, 2014)  
-- IMS Auditor (ISO 9001, ISO 14001, OHSAS 18001) (KYS Consulting, 2014)
+- \- Driving Licenses: A, A1, A2, B, B1, D1, F, M  
+- \- CMAS ** SCUBA Diver, PADI Advanced Open Water Diver  
+- \- Google Developers Machine Learning Bootcamp (Google–inzva, 2023)  
+- \- TensorFlow Developer Certificate (Google, 2023)  
+- \- CAPM Preparation Training (PMI TR–ITU, 2023)  
+- \- Introduction to Big Data with Spark and Hadoop (IBM, Coursera, 2023)  
+- \- Introduction to Apache NiFi | Cloudera DataFlow – HDF 2.0 (Udemy, 2023)  
+- \- Deep Learning Study Group (inzva, 2020)  
+- \- Elevator Inspector Personnel (TSE, 2017)  
+- \- Internal Auditor (KYS Consulting, 2014)  
+- \- IMS Auditor (ISO 9001, ISO 14001, OHSAS 18001) (KYS Consulting, 2014)
 
 <br/>Last updated: August 2025<br/><br/>
