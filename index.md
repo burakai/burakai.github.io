@@ -9,11 +9,11 @@ Istanbul, Türkiye<br/>
 
 <a href="mail@firstname.ai">mail@firstname.ai</a>
 
-![mail:](./media/mail.jpg)
+![mail:](./media/mail.jpg){width="200"}
 
 <br/>
 
-<img src="./media/mail.jpg" width="50">
+<img src="./media/mail.jpg" width="200">
 
 <div id="webaddress">
   <a href="https://burak.ai"><i class="fa-solid fa-house"></i> burak.ai</a> - 
@@ -108,7 +108,8 @@ Certified by the International Institute of Welding (IIW)
 `2023`
 **Yet Another Earthquake Project (YAEP)** – Earthquake visualization & correlation with electric field data (NiFi, Kafka, Spark, Kibana).
 - \- Tools & frameworks used: Apache NiFi, Apache Kafka, Apache Spark, AWS S3, Elasticsearch, Kibana
-- \- Coordinated an end-to-end project focused on earthquake visualization and correlation analysis with electric field data. Led the team in utilizing a suite of Big Data Tools to seamlessly acquire, integrate, preprocess, analyze, and visualize the data. Leveraged real-time data streaming, advanced analytics, and interactive visualization techniques to uncover significant relationships between earthquakes and electric field data.
+- \- Coordinated an end-to-end project focused on earthquake visualization and correlation analysis with electric field data. Led the team in utilizing a suite of Big Data Tools to seamlessly acquire, integrate, preprocess, analyze, and visualize the data.
+- \- Leveraged real-time data streaming, advanced analytics, and interactive visualization techniques to uncover significant relationships between earthquakes and electric field data.
 
 `2023`
 **Multimodal MRI Data Segmentation Based on Swin-Unet** – Automated medical image segmentation.
