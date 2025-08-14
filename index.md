@@ -9,11 +9,11 @@ Istanbul, Türkiye<br/>
 
 <a href="mail@firstname.ai">mail@firstname.ai</a>
 
-![mail:](./media/mail.jpg){width="200"}
+![mail:](./media/mail.jpg){: width="300"}
 
 <br/>
 
-<img src="./media/mail.jpg" width="200">
+<img src="./media/mail.jpg" width="250">
 
 <div id="webaddress">
   <a href="https://burak.ai"><i class="fa-solid fa-house"></i> burak.ai</a> - 
