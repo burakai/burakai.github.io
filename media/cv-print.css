@@ -220,7 +220,7 @@ strong {
   width: 200px;
   height: 200px;
   display: inline-block;
-  background-image: url("./media/elephant.png");
+  background-image: url("./elephant.png");
   background-size: cover;
   background-position: center;
   box-shadow: inset 0 0 0px 3px rgb(0 0 0);
