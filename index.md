@@ -5,7 +5,6 @@ title: Burak Kılıç
 
 <a href="https://github.com/burakai/curriculum-vitae/releases/download/v1.21.0/burak.pdf" class="hover-elephant"></a>
 
-
 # Burak Kılıç
 Ph.D. Candidate, Istanbul Technical University
 
@@ -14,8 +13,8 @@ Istanbul, Türkiye<br/>
 <img src="/media/mail.jpeg" alt="mail" width="300">
 
 <div id="webaddress">
-  <a href="https://burak.ai"><i class="fa-solid fa-house"></i> burak.ai</a> - 
-  <a href="https://github.com/burakai"><i class="fa-brands fa-github"></i> burakai</a> - 
+  <a href="https://burak.ai"><i class="fa-solid fa-house"></i> burak.ai</a> / 
+  <a href="https://github.com/burakai"><i class="fa-brands fa-github"></i> burakai</a> / 
   <a href="https://www.linkedin.com/in/burakai/"><i class="fa-brands fa-linkedin"></i> burakai</a>
 </div>
 
