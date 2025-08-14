@@ -188,7 +188,7 @@ strong {
 }
 
 /* ==========================================================================
-   KULLANICI TANIMLI CV BAŞLIK STİLLERİ
+   KULLANICI TANIMLI CV BAŞLIK STİLLERİ - v3
    ========================================================================== */
 
 /* Flexbox tabanlı başlık alanı */
@@ -197,30 +197,45 @@ strong {
   max-width: 1280px;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 1em;  /* Mobil cihazlarda kenara yapışmasını engeller */
-  padding-right: 1em;
+  /* KALDIRILDI: Çift girinti sorununu çözmek için padding kaldırıldı */
 
   /* Öğeleri (bilgi ve fil) hizalar */
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  margin-bottom: 2em; /* Başlık ile sonraki içerik arasına boşluk */
+  gap: 2em; /* Yazı ve resim arasına boşluk koyar */
+  margin-bottom: 2em;
 }
 
 /* Başlık ve unvan bilgilerini içeren sol taraf */
+.cv-header .header-info {
+  /* EKLENDİ: Bu alanın mevcut tüm boşluğu doldurmasını sağlar, yazının kaymasını engeller */
+  flex: 1;
+  min-width: 0; /* Flexbox ile ilgili olası taşma sorunlarını engeller */
+}
+
 .cv-header .header-info h1, 
 .cv-header .header-info p {
   margin: 0;
   padding: 0;
-  color: #000; /* Başlık renginin temanın varsayılan rengi olmasını sağlar */
+  color: #000;
 }
 
 /* Fil ikonu için güncellenmiş stiller */
-.cv-header .hover-elephant {
-  /* Tema'nın link stillerini sıfırlar */
+.cv-header .hover-elephant,
+.cv-header .hover-elephant::before, /* EKLENDİ: Sahte elementleri sıfırlar */
+.cv-header .hover-elephant::after {  /* EKLENDİ: Sahte elementleri sıfırlar */
+  /* EKLENDİ: Temanın inatçı link stillerini tamamen sıfırlar */
   border: none !important;
   text-decoration: none !important;
+  outline: none !important;
+  content: '' !important;
   
+  /* Sadece bizim istediğimiz gölge kalacak şekilde güncellendi */
+  box-shadow: inset 0 0 0 3px rgb(0, 0, 0) !important;
+}
+
+.cv-header .hover-elephant {
   /* Görünüm ayarları */
   width: 150px;
   height: 150px;
@@ -228,16 +243,10 @@ strong {
   background-image: url("/media/elephant.png");
   background-size: cover;
   background-position: center;
-  box-shadow: inset 0 0 0px 3px rgb(0 0 0) !important; 
   flex-shrink: 0;
-  margin-top: 0.25em; /* Filin başlıkla daha iyi hizalanması için ince ayar */
+  margin-top: 0.25em;
 }
 
 .cv-header .hover-elephant:hover {
   background-image: url("/media/elephant-hover.png");
 }
-
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
