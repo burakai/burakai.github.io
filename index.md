@@ -8,22 +8,12 @@ Ph.D. Candidate, Istanbul Technical University
 Istanbul, Türkiye<br/>
 <a href="mailto:mail@burak.ai">mail@burak.ai</a> - [github.com/burakai](https://github.com/burakai) - [linkedin.com/in/burakai](https://www.linkedin.com/in/burakai)
 
-## Education
+<div id="webaddress">
+  <a href="https://burak.ai"><i class="fa-solid fa-house"></i> burak.ai</a> - 
+  <a href="https://github.com/burakai"><i class="fa-brands fa-github"></i> burakai</a> - 
+  <a href="https://www.linkedin.com/in/burakai/"><i class="fa-brands fa-linkedin"></i> burakai</a>
+</div>
 
-`2022–present`
-**Ph.D., Mechanical Engineering**, *Istanbul Technical University*, GPA: 3.11/4.00  
-Relevant coursework: Computer Vision, Medical Image Computing, Big Data Technologies and Applications
-
-`2016–2022`
-**M.Sc., Materials and Manufacture**, *Istanbul Technical University*, GPA: 3.13/4.00  
-Thesis: Investigation of joining metals and fiber reinforced thermoplastic composites by hot pressing method
-
-`2014–2015`
-**International Welding Engineer (IWE/EWE)**, *Gedik Educational Foundation*  
-Certified by the International Institute of Welding (IIW)
-
-`2008–2014`
-**B.Sc., Mechanical Engineering**, *Bulent Ecevit University*, GPA: 2.48/4.00
 
 ## Experience
 
@@ -58,6 +48,25 @@ Certified by the International Institute of Welding (IIW)
 - Established QMS as Management Representative.  
 - Performed post-weld inspections and coordinated NDT procedures.  
 - Maintained quality records per ITPs.
+
+
+## Education
+
+`2022–present`
+**Ph.D., Mechanical Engineering**, *Istanbul Technical University*, GPA: 3.11/4.00  
+Relevant coursework: Computer Vision, Medical Image Computing, Big Data Technologies and Applications
+
+`2016–2022`
+**M.Sc., Materials and Manufacture**, *Istanbul Technical University*, GPA: 3.13/4.00  
+Thesis: Investigation of joining metals and fiber reinforced thermoplastic composites by hot pressing method
+
+`2014–2015`
+**International Welding Engineer (IWE/EWE)**, *Gedik Educational Foundation*  
+Certified by the International Institute of Welding (IIW)
+
+`2008–2014`
+**B.Sc., Mechanical Engineering**, *Bulent Ecevit University*, GPA: 2.48/4.00
+
 
 ## Projects
 
@@ -107,15 +116,5 @@ Certified by the International Institute of Welding (IIW)
 - Elevator Inspector Personnel (TSE, 2017)  
 - Internal Auditor (KYS Consulting, 2014)  
 - IMS Auditor (ISO 9001, ISO 14001, OHSAS 18001) (KYS Consulting, 2014)
-
-## Languages
-
-Native: Turkish  
-Advanced: English
-
-## Personal
-
-Citizenship: Türkiye  
-Residence: Türkiye
 
 <br/>Last updated: August 2025<br/><br/>
