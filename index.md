@@ -30,7 +30,7 @@ I enjoy collaborating across disciplines, connecting industry needs with innovat
 - \- Assisted in the development of new course materials and assignments by writing and revising course materials, and developing new assignments and assessments.
 
 `02/2018–06/2020`
-**Saint-Michel French High School**, _Robotics Instructor_ Istanbul  
+**Saint-Michel French High School**, _Robotics Instructor_, Istanbul  
 - \- Led weekly Robotics Club sessions focused on Arduino-based projects, electronic circuit design, and programming fundamentals.
 - \- Guided students through hands-on problem-solving activities, fostering creativity, teamwork, and STEM skills development.
 
