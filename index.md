@@ -7,8 +7,7 @@ Ph.D. Candidate, Istanbul Technical University
 
 Istanbul, Türkiye<br/>
 
-<img src="/media/mail.jpeg" alt="mail" width="250">
-<br/>
+<img src="/media/mail.jpeg" alt="mail" width="280">
 
 <div id="webaddress">
   <a href="https://burak.ai"><i class="fa-solid fa-house"></i> burak.ai</a> - 
