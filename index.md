@@ -3,7 +3,10 @@ layout: cv
 title: Burak Kılıç
 ---
 
-<a href="https://github.com/burakai/curriculum-vitae/releases/download/v1.21.0/burak.pdf"><img src="./media/elephant.png" style="width: 200px;height: 200px;position: absolute;right: 0%;box-shadow: inset 0 0 0px 3px rgb(0 0 0);z-index:1"> 
+<a href="https://github.com/burakai/curriculum-vitae/releases/download/v1.21.0/burak.pdf" class="hover-image">
+  <img src="./media/elephant.png" alt="Elephant" class="main-img">
+  <img src="./media/elephant-hover.png" alt="Elephant Hover" class="hover-img">
+</a>
 
 
 # Burak Kılıç
