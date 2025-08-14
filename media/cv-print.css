@@ -214,33 +214,17 @@ strong {
   color: white !important;
 }
 
-.hover-image {
+.hover-elephant {
   position: absolute;
   right: 0%;
   width: 200px;
   height: 200px;
   display: inline-block;
-}
-
-.hover-image img {
-  width: 200px;
-  height: 200px;
+  background-image: url('./media/elephant.png');
+  background-size: cover;
   box-shadow: inset 0 0 0px 3px rgb(0 0 0);
-  position: absolute;
-  top: 0;
-  left: 0;
-  transition: opacity 0.3s ease;
 }
 
-.hover-image .hover-img {
-  opacity: 0;
-  z-index: 2;
-}
-
-.hover-image:hover .hover-img {
-  opacity: 1;
-}
-
-.hover-image:hover .main-img {
-  opacity: 0;
+.hover-elephant:hover {
+  background-image: url('./media/elephant-hover.png');
 }
