@@ -9,6 +9,12 @@ Istanbul, Türkiye<br/>
 
 <a href="mail@firstname.ai">mail@firstname.ai</a>
 
+![E-posta simgesi](/media/mail.jpg)
+
+<br/>
+
+<img src="/media/mail.jpg" alt="E-posta simgesi" width="50">
+
 <div id="webaddress">
   <a href="https://burak.ai"><i class="fa-solid fa-house"></i> burak.ai</a> - 
   <a href="https://github.com/burakai"><i class="fa-brands fa-github"></i> burakai</a> - 
