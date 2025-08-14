@@ -164,7 +164,7 @@ a:hover {
 }
 
 #webaddress {
-	margin-top: 0em;
+	margin-top: 1em;
 	position: relative;
 	left: 25%;
 	color: #ccc;
@@ -189,3 +189,7 @@ strong {
 	display: none;
 	visibility: hidden;
 }
+
+
+
+
