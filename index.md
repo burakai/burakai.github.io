@@ -3,10 +3,19 @@ layout: cv
 title: Burak Kılıç
 ---
 
-<a href="https://github.com/burakai/curriculum-vitae/releases/download/v1.21.0/burak.pdf"
-   class="hover-elephant"
-   title="Download CV">
-</a>
+<div class="cv-header">
+  <div class="header-info">
+    <h1>Burak Kılıç</h1>
+    <p>Ph.D. Candidate, Istanbul Technical University<br>
+    Istanbul, Türkiye</p>
+  </div>
+  <a href="https://github.com/burakai/curriculum-vitae/releases/download/v1.21.0/burak.pdf"
+     class="hover-elephant"
+     title="Download CV">
+  </a>
+</div>
+
+<img src="/media/mail.jpeg" alt="mail" width="300">
 
 
 # Burak Kılıç

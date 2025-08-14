@@ -1,14 +1,27 @@
+/* Flexbox tabanlı başlık alanı */
+.cv-header {
+  display: flex;
+  justify-content: space-between; /* Öğeleri (bilgi ve fil) iki yana yaslar */
+  align-items: flex-start;      /* Öğeleri dikeyde en üste hizalar */
+  margin-bottom: 1em;           /* Başlık ile sonraki içerik arasına boşluk */
+}
+
+/* Başlık ve unvan bilgilerini içeren sol taraf */
+.header-info h1, .header-info p {
+  margin: 0; /* Tarayıcının eklediği varsayılan boşlukları kaldırır */
+  padding: 0;
+}
+
+/* Fil ikonu için güncellenmiş stiller */
 .hover-elephant {
-  position: absolute;
-  right: 0%;
-  width: 200px;
-  height: 200px;
-  display: inline-block;
+  width: 150px;
+  height: 150px;
+  display: block;
   background-image: url("/media/elephant.png");
   background-size: cover;
   background-position: center;
   box-shadow: inset 0 0 0px 3px rgb(0 0 0);
-  z-index: 1;
+  flex-shrink: 0; /* Ekran daraldığında fil resminin küçülmesini engeller */
 }
 
 .hover-elephant:hover {
