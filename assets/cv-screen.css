@@ -240,7 +240,7 @@ strong {
   width: 150px;
   height: 150px;
   display: block;
-  background-image: url("/media/elephant.png");
+  background-image: url("/assets/elephant.png");
   background-size: cover;
   background-position: center;
   flex-shrink: 0;
@@ -248,5 +248,5 @@ strong {
 }
 
 .cv-header .hover-elephant:hover {
-  background-image: url("/media/elephant-hover.png");
+  background-image: url("/assets/elephant-hover.png");
 }

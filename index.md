@@ -15,7 +15,7 @@ title: Burak Kılıç
   </a>
 </div>
 
-<img src="/media/mail.jpeg" alt="mail" width="300">
+<img src="/assets/mail.jpeg" alt="mail" width="300">
 
 <div id="webaddress">
   <a href="https://burak.ai"><i class="fa-solid fa-house"></i> burak.ai</a> / 
