@@ -4,16 +4,15 @@ title: Burak Kılıç
 ---
 
 <div class="cv-header">
-  <div class="header-info">
-    <h1>Burak Kılıç</h1>
-    <p>Ph.D. Candidate, Istanbul Technical University<br>
-    Istanbul, Türkiye</p>
-  </div>
   <a href="https://github.com/burakai/curriculum-vitae/releases/download/v1.21.0/burak.pdf"
      class="hover-elephant"
-     title="Download CV">
+     title="Download CV as PDF">
   </a>
 </div>
+
+# Burak Kılıç
+Ph.D. Candidate, Istanbul Technical University<br/>
+Istanbul, Türkiye<br/>
 
 <img src="/assets/mail.jpeg" alt="mail" width="300">
 
