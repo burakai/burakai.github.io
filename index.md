@@ -158,17 +158,17 @@ Materials Science, Smart Manufacturing, Artificial Intelligence, Computer Vision
 
 
 ## Licenses and Certificates
-
--- Driving Licenses: A, A1, A2, B, B1, D1, F, M  
--- CMAS ** SCUBA Diver, PADI Advanced Open Water Diver  
--- <a href="https://github.com/burakai/curriculum-vitae/blob/525370377ce16bdd13980e2b96d08e05ffca4966/papers/cert_2023_google-developers_ml_bootcamp.pdf" target="_blank" rel="noopener noreferrer">Google Developers Machine Learning Bootcamp (Google–inzva, 2023) <i class="fa fa-external-link"></i></a>  
--- <a href="https://www.credential.net/78698ddb-f853-4163-9af0-e40f4d96717f#acc.k3OIY0cv" target="_blank" rel="noopener noreferrer">TensorFlow Developer Certificate (Google, 2023) <i class="fa fa-external-link"></i></a>  
--- <a href="https://github.com/burakai/curriculum-vitae/blob/525370377ce16bdd13980e2b96d08e05ffca4966/papers/cert_2023_pmi-itu_capm.png" target="_blank" rel="noopener noreferrer">CAPM Preparation Training (PMI TR–ITU, 2023) <i class="fa fa-external-link"></i></a>  
--- <a href="https://coursera.org/share/a3112675bd11160d489fe789c635a00b" target="_blank" rel="noopener noreferrer">Introduction to Big Data with Spark and Hadoop (IBM, Coursera, 2023) <i class="fa fa-external-link"></i></a>  
--- <a href="https://www.udemy.com/certificate/UC-f103e3b8-b3de-4776-a95f-a03c73fb5471/" target="_blank" rel="noopener noreferrer">Introduction to Apache NiFi \| Cloudera DataFlow – HDF 2.0 (Udemy, 2023) <i class="fa fa-external-link"></i></a>  
--- <a href="https://github.com/burakai/curriculum-vitae/blob/525370377ce16bdd13980e2b96d08e05ffca4966/papers/cert_2020_inzva_deep-learning-study-group.pdf" target="_blank" rel="noopener noreferrer">Deep Learning Study Group (inzva, 2020) <i class="fa fa-external-link"></i></a>  
--- Elevator Inspector Personnel (TSE, 2017)  
--- Internal Auditor (KYS Consulting, 2014)  
--- IMS Auditor (ISO 9001, ISO 14001, OHSAS 18001) (KYS Consulting, 2014)
+- Driving Licenses: A, A1, A2, B, B1, D1, F, M  
+- CMAS ** SCUBA Diver
+- PADI Advanced Open Water Diver (AOWD)  
+- <a href="https://github.com/burakai/curriculum-vitae/blob/525370377ce16bdd13980e2b96d08e05ffca4966/papers/cert_2023_google-developers_ml_bootcamp.pdf" target="_blank" rel="noopener noreferrer">Google Developers Machine Learning Bootcamp (Google–inzva, 2023) <i class="fa fa-external-link"></i></a>  
+- <a href="https://www.credential.net/78698ddb-f853-4163-9af0-e40f4d96717f#acc.k3OIY0cv" target="_blank" rel="noopener noreferrer">TensorFlow Developer Certificate (Google, 2023) <i class="fa fa-external-link"></i></a>  
+- <a href="https://github.com/burakai/curriculum-vitae/blob/525370377ce16bdd13980e2b96d08e05ffca4966/papers/cert_2023_pmi-itu_capm.png" target="_blank" rel="noopener noreferrer">CAPM Preparation Training (PMI TR–ITU, 2023) <i class="fa fa-external-link"></i></a>  
+- <a href="https://coursera.org/share/a3112675bd11160d489fe789c635a00b" target="_blank" rel="noopener noreferrer">Introduction to Big Data with Spark and Hadoop (IBM, Coursera, 2023) <i class="fa fa-external-link"></i></a>  
+- <a href="https://www.udemy.com/certificate/UC-f103e3b8-b3de-4776-a95f-a03c73fb5471/" target="_blank" rel="noopener noreferrer">Introduction to Apache NiFi \| Cloudera DataFlow – HDF 2.0 (Udemy, 2023) <i class="fa fa-external-link"></i></a>  
+- <a href="https://github.com/burakai/curriculum-vitae/blob/525370377ce16bdd13980e2b96d08e05ffca4966/papers/cert_2020_inzva_deep-learning-study-group.pdf" target="_blank" rel="noopener noreferrer">Deep Learning Study Group (inzva, 2020) <i class="fa fa-external-link"></i></a>  
+- Elevator Inspector Personnel (TSE, 2017)  
+- Internal Auditor (KYS Consulting, 2014)  
+- IMS Auditor (ISO 9001, ISO 14001, OHSAS 18001) (KYS Consulting, 2014)
 
 <br/>Last updated: August 2025<br/><br/>

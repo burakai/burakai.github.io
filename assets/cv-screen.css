@@ -89,13 +89,25 @@ ul {
 	margin-top: -0.5em;
 }
 li {
-	padding-left: 1.25em;
-	text-indent: -1.25em;
+	/* Hanging indent sorunu için düzeltme */
+	padding-left: 0;
+	text-indent: 0;
 	text-align: justify;
 	text-justify: inter-word;
 	margin-bottom: 0.3em;
-	margin-left: 0;
+	margin-left: 1.25em;
+	/* İkinci satır için hanging indent */
+	position: relative;
 }
+
+/* Bullet point için before pseudo-element kullan */
+li:before {
+	content: "- ";
+	position: absolute;
+	left: -1.25em;
+	top: 0;
+}
+
 li ul {
 	position: relative;
 	left: 0;
@@ -220,6 +232,8 @@ strong {
 	
 	.cv-header {
 		padding: 0 1em;
+		/* Elephant için yeterli yükseklik */
+		min-height: 200px;
 	}
 	
 	.cv-header .hover-elephant {
@@ -228,6 +242,12 @@ strong {
 		height: 150px;
 		/* Mobilde daha basit hizalama */
 		transform: none;
+	}
+	
+	/* Başlık için elephant altına gelecek kadar margin */
+	h1 {
+		margin-top: 170px;
+		margin-bottom: 1em;
 	}
 }
 
