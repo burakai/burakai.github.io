@@ -184,11 +184,11 @@ strong {
 .cv-header .hover-elephant {
 	position: absolute;
 	/* İçerik alanının sonuna hizala (25% + 70% = 95%) */
-	right: 2em; /* body padding ile aynı */
-	top: 0;
+	right: 1.5em; /* body padding ile aynı */
+	top: 55px;
 	z-index: 1;
-	width: 200px;
-	height: 200px;
+	width: 180px;
+	height: 180px;
 	display: block;
 	background-image: url("/assets/elephant.png");
 	background-size: cover;
