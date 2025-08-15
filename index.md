@@ -4,7 +4,7 @@ title: Burak Kılıç
 ---
 
 <div class="cv-header">
-  <a href="https://github.com/burakai/curriculum-vitae/releases/download/v1.21.1/burak.pdf"
+  <a href="https://github.com/burakai/curriculum-vitae/releases/download/v1.21.2/burak.pdf"
      class="hover-elephant"
      title="Download CV as PDF">
   </a>
@@ -32,37 +32,37 @@ I enjoy collaborating across disciplines, connecting industry needs with innovat
 ## Experience
 **Işık University**, _Research Assistant_, Istanbul
 `06/2018 – Present`
-- -- Assisted in the research of the granted BAP project: Development of an economical and innovative joining concept for hybrid materials that does not require filler material.
-- -- Managed Materials Science Laboratory, Measurements and Instrumentation, and Mechanical Engineering Labo-ratory courses. Supervised students in the laboratory, and graded laboratory reports.
-- -- Assisted in the development of new course materials and assignments by writing and revising course materials, and developing new assignments and assessments.
+- Assisted in the research of the granted BAP project: Development of an economical and innovative joining concept for hybrid materials that does not require filler material.
+- Managed Materials Science Laboratory, Measurements and Instrumentation, and Mechanical Engineering Laboratory courses. Supervised students in the laboratory, and graded laboratory reports.
+- Assisted in the development of new course materials and assignments by writing and revising course materials, and developing new assignments and assessments.
 
 `02/2018 – 06/2020`
 **Saint-Michel French High School**, _Robotics Instructor_, Istanbul  
-- -- Led weekly Robotics Club sessions focused on Arduino-based projects, electronic circuit design, and programming fundamentals.
-- -- Guided students through hands-on problem-solving activities, fostering creativity, teamwork, and STEM skills development.
+- Led weekly Robotics Club sessions focused on Arduino-based projects, electronic circuit design, and programming fundamentals.
+- Guided students through hands-on problem-solving activities, fostering creativity, teamwork, and STEM skills development.
 
 `06/2017 – 01/2019`
 **Turkish Standards Institution**, _Inspector_, Istanbul  
-- -- Planned and executed inspections in accordance with instructions provided by TSE (Turkish Standards Institu-tion), harmonized standards (such as EN 81-1, EN 81-20, EN 81-70, etc.), and applicable legal regulations.
-- -- Conducted thorough inspections to assess the safety, functionality, and compliance of the inspected equipment or systems. Documented inspection findings and prepared comprehensive reports.
+- Planned and executed inspections in accordance with instructions provided by TSE, harmonized standards (such as EN 81-1, EN 81-20, EN 81-70, etc.), and applicable legal regulations.
+- Conducted thorough inspections to assess the safety, functionality, and compliance of the inspected equipment or systems. Documented inspection findings and prepared comprehensive reports.
 
 `02/2016 – 07/2016`
 **Universal Certification**, _Welding Engineer_, Istanbul  
-- -- Prepared and approved qualification documents, including Welding Procedure Specifications (WPS), Procedure Qualification Records (PQR), and Welder’s Test Certificates.
-- -- Worked extensively with various welding codes and standards, such as AWS D1.1, EN 1090, and ASME BPVC.
-- -- Conducted inspections and assessments to verify compliance with welding standards and codes.
+- Prepared and approved qualification documents, including Welding Procedure Specifications (WPS), Procedure Qualification Records (PQR), and Welder’s Test Certificates.
+- Worked extensively with various welding codes and standards, such as AWS D1.1, EN 1090, and ASME BPVC.
+- Conducted inspections and assessments to verify compliance with welding standards and codes.
 
 `09/2015 – 02/2016`
 **Merberk Engineering**, _R&D Engineer_, Istanbul  
-- -- Involved in an R&D project to create a 3D printer and subsequently a unique 3D Metal Printer.
-- -- Successfully completed the development of the 3D printer, but the project was discontinued before creating the metal 3D printer due to a lack of grants or funding.
+- Involved in an R&D project to create a 3D printer and subsequently a unique 3D Metal Printer.
+- Successfully completed the development of the 3D printer, but the project was discontinued before creating the metal 3D printer due to a lack of grants or funding.
 
 `09/2014 – 09/2015`
 **Mast Metal Steel Construction**, _Quality Control Engineer_, Kocaeli  
-- -- Contributed to the establishment of the Quality Management System (QMS) at Mast Metal Steel Construction as the Management Representative.
-- -- Conducted inspections after welding, demonstrating a strong interest in quality control.
-- -- Worked closely with customers, primarily from IHI Corp., organizing inspections and planning NDT procedures.
-- -- Delivered accurate quality records in accordance with Inspection and Test Plans (ITPs).
+- Contributed to the establishment of the Quality Management System (QMS) at Mast Metal Steel Construction as the Management Representative.
+- Conducted inspections after welding, demonstrating a strong interest in quality control.
+- Worked closely with customers, primarily from IHI Corp., organizing inspections and planning NDT procedures.
+- Delivered accurate quality records in accordance with Inspection and Test Plans (ITPs).
 
 
 ## Education
