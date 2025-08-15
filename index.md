@@ -4,7 +4,7 @@ title: Burak Kılıç
 ---
 
 <div class="cv-header">
-  <a href="https://github.com/burakai/curriculum-vitae/releases/download/v1.21.0/burak.pdf"
+  <a href="https://github.com/burakai/curriculum-vitae/releases/download/v1.21.1/burak.pdf"
      class="hover-elephant"
      title="Download CV as PDF">
   </a>
@@ -98,39 +98,39 @@ Certified by the International Institute of Welding (IIW)
 - -- Deploying the system with real-time monitoring and a user interface on FastAPI, Docker and Streamlit, leveraging large-scale labeled data from expert marble selectors and operator feedback to iteratively improve model accuracy.
 
 `2024`
-**MOOZE** – Repository, *Personal Project*
+**MOOZE**, _Personal Project_ --- <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>
 - -- MOOZE is an open-source CLI app that interacts with OpenAI’s API to create and manage an AI assistant.
 - -- The assistant is designed to respond in a user-specified style and help with questions related to a provided document(s).
 - -- Key features include functionalities for managing files, vector stores, and threads to facilitate interactions with the AI assistant.
 
 `2024`
-**ENGR4450 - Applied Artificial Intelligence Course Notes**, *Creator* – Repository
+**ENGR4450 - Applied Artificial Intelligence Course Notes**, _Creator_ &nbsp; --- &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>, &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
 - -- ENGR4450 - Applied Artificial Intelligence (AI), a course offered at Işık University.
 - -- The repo contains six Jupyter notebooks (tutorials) prepared by me.
 
 `2023`
-**Yet Another Earthquake Project (YAEP)** – Earthquake visualization & correlation with electric field data (NiFi, Kafka, Spark, Kibana).
+**Yet Another Earthquake Project (YAEP)**, _I_ &nbsp; --- &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>, &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
 - -- Tools & frameworks used: Apache NiFi, Apache Kafka, Apache Spark, AWS S3, Elasticsearch, Kibana
 - -- Coordinated an end-to-end project focused on earthquake visualization and correlation analysis with electric field data. Led the team in utilizing a suite of Big Data Tools to seamlessly acquire, integrate, preprocess, analyze, and visualize the data.
 - -- Leveraged real-time data streaming, advanced analytics, and interactive visualization techniques to uncover significant relationships between earthquakes and electric field data.
 
 `2023`
-**Multimodal MRI Data Segmentation Based on Swin-Unet** – Automated medical image segmentation.
+**Multimodal MRI Data Segmentation Based on Swin-Unet**, _I_, &nbsp; --- &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>, &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
 - -- Tools & frameworks used: PyTorch, Swin-Unet, SimpleITK
 - -- Studied automated medical image segmentation using the Swin-Unet model. Achieved accurate results through data preprocessing, training, and GPU acceleration.
 
 `2023`
-**Age Regression from Brain MRI Images** – Age estimation via regression models.
+**Age Regression from Brain MRI Images**, _I_, &nbsp; --- &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>, &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
 - -- Tools & frameworks used: Scikit-learn, SimpleITK
 - -- Compared various regression models, this project aims to accurately estimate patients’ ages based on their brain MRI images, providing valuable insights into brain development, aging processes, age-related pathologies, and aiding in the early detection of neurodegenerative disorders in medical research and practice.
 
-`2022`
-**Weld Defect Detection Using U-Net** – Defect segmentation in weld X-ray images.
+
+**Weld Defect Detection Using U-Net**, _I_, &nbsp; --- &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>, &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
 - -- Tools & frameworks used: PyTorch, U-Net
 - -- Utilized the GDXray dataset, specifically for weld X-ray images, and implemented the U-Net architecture.
 
 `2016`
-**Flaw Detection in Radiographic Weld Images Using Morphological Approach** – Automated flaw detection in weld radiographs.
+**Flaw Detection in Radiographic Weld Images Using Morphological Approach**, _I_, &nbsp; --- &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>, &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
 - -- Tools & frameworks used: MATLAB, Image Processing Toolbox
 - -- Implemented an algorithm inspired by RS Anand and P Kumar’s research for flaw detection in radiographic weld images using a morphological approach. It aimed to provide an automated and robust method for flaw detection.
 
@@ -153,7 +153,7 @@ Materials Science, Smart Manufacturing, Artificial Intelligence, Computer Vision
 -- Google Developers Machine Learning Bootcamp (Google–inzva, 2023)  
 -- TensorFlow Developer Certificate (Google, 2023)  
 -- CAPM Preparation Training (PMI TR–ITU, 2023)  
--- Introduction to Big Data with Spark and Hadoop (IBM, Coursera, 2023)
+-- Introduction to Big Data with Spark and Hadoop (IBM, Coursera, 2023)   
 -- Introduction to Apache NiFi \| Cloudera DataFlow – HDF 2.0 (Udemy, 2023)  
 -- Deep Learning Study Group (inzva, 2020)  
 -- Elevator Inspector Personnel (TSE, 2017)  
