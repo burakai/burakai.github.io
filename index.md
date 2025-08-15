@@ -12,7 +12,7 @@ title: Burak Kılıç
 
 # Burak Kılıç
 Ph.D. Candidate, Istanbul Technical University<br/>
-Istanbul, Türkiye<br/>
+Istanbul, Türkiye<br/><br/>
 
 <img src="/assets/mail.jpeg" alt="mail" width="300">
 
