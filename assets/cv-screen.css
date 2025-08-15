@@ -94,24 +94,7 @@ li {
 	text-align: justify;
 	text-justify: inter-word;
 	margin-bottom: 0.3em;
-	/* Hizalama problemlerini önlemek için */
 	margin-left: 0;
-	position: relative;
-}
-
-/* Tüm liste elementlerini zorla hizala */
-ul li {
-	padding-left: 1.25em !important;
-	text-indent: -1.25em !important;
-	margin-left: 0 !important;
-}
-
-/* Licenses bölümü için özel düzeltme - baştan itibaren düzgün hizalama */
-h2:contains("Licenses") + ul li,
-h2[id*="licenses"] + ul li {
-	text-indent: -1.25em !important;
-	padding-left: 1.25em !important;
-	margin-left: 0 !important;
 }
 li ul {
 	position: relative;

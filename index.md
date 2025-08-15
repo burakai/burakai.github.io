@@ -87,52 +87,63 @@ Certified by the International Institute of Welding (IIW)
 
 `2025 – Ongoing`
 **SIPA: Smart Integrated Plant Assistant**, *Personal Project*
-- -- Developing an IoT-based precision agriculture system using ESP32 microcontrollers and environmental sensors (YL-69 soil moisture, DHT22 temperature/humidity, BH1750 light intensity, DS3231 RTC) to monitor conditions, enable automated irrigation, and track plant growth via periodic camera captures (ESP32-CAM).
-- -- Implementing real-time data streaming with MQTT/Apache Kafka, storing historical measurements in Post-greSQL, and visualizing trends through Grafana dashboards for data-driven agricultural insights.
-- -- Designing an alert mechanism to notify users of critical environmental changes, improving plant health and optimizing resource usage in alignment with precision farming principles.
+- Developing an IoT-based precision agriculture system using ESP32 microcontrollers and environmental sensors (YL-69 soil moisture, DHT22 temperature/humidity, BH1750 light intensity, DS3231 RTC) to monitor conditions, enable automated irrigation, and track plant growth via periodic camera captures (ESP32-CAM).
+- Implementing real-time data streaming with MQTT/Apache Kafka, storing historical measurements in Post-greSQL, and visualizing trends through Grafana dashboards for data-driven agricultural insights.
+- Designing an alert mechanism to notify users of critical environmental changes, improving plant health and optimizing resource usage in alignment with precision farming principles.
 
 `2025 – Ongoing`
 **MARS: Marble Analysis & Robotic Slicing**, *Project Lead*
-- -- Developing an AI-powered marble inspection pipeline integrating a fixed imaging setup (industrial camera, lens, conveyor, lighting system) to preprocess, calibrate, and extract dimensionally accurate images for downstream segmentation and optimization tasks.
-- -- Implementing multi-stage segmentation and optimization algorithms to generate cutting plans that minimize waste, presented to operators for selection.
-- -- Deploying the system with real-time monitoring and a user interface on FastAPI, Docker and Streamlit, leveraging large-scale labeled data from expert marble selectors and operator feedback to iteratively improve model accuracy.
+- Developing an AI-powered marble inspection pipeline integrating a fixed imaging setup (industrial camera, lens, conveyor, lighting system) to preprocess, calibrate, and extract dimensionally accurate images for downstream segmentation and optimization tasks.
+- Implementing multi-stage segmentation and optimization algorithms to generate cutting plans that minimize waste, presented to operators for selection.
+- Deploying the system with real-time monitoring and a user interface on FastAPI, Docker and Streamlit, leveraging large-scale labeled data from expert marble selectors and operator feedback to iteratively improve model accuracy.
 
 `2024`
-**MOOZE**, _Personal Project_ --- <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>
-- -- MOOZE is an open-source CLI app that interacts with OpenAI’s API to create and manage an AI assistant.
-- -- The assistant is designed to respond in a user-specified style and help with questions related to a provided document(s).
-- -- Key features include functionalities for managing files, vector stores, and threads to facilitate interactions with the AI assistant.
+**MOOZE**, _Personal Project_ &nbsp;---&nbsp;
+<a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>
+- MOOZE is an open-source CLI app that interacts with OpenAI’s API to create and manage an AI assistant.
+- The assistant is designed to respond in a user-specified style and help with questions related to a provided document(s).
+- Key features include functionalities for managing files, vector stores, and threads to facilitate interactions with the AI assistant.
 
 `2024`
-**ENGR4450 - Applied Artificial Intelligence Course Notes**, _Creator_ &nbsp; --- &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>, &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
-- -- ENGR4450 - Applied Artificial Intelligence (AI), a course offered at Işık University.
-- -- The repo contains six Jupyter notebooks (tutorials) prepared by me.
+**ENGR4450 - Applied Artificial Intelligence Course Notes**, _Creator_ &nbsp;---&nbsp;
+<a href="https://github.com/burakai/ENGR4450" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>
+- ENGR4450 - Applied Artificial Intelligence (AI), a course offered at Işık University.
+- The repo contains six Jupyter notebooks (tutorials) prepared by me.
 
 `2023`
-**Yet Another Earthquake Project (YAEP)**, _I_ &nbsp; --- &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>, &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
-- -- Tools & frameworks used: Apache NiFi, Apache Kafka, Apache Spark, AWS S3, Elasticsearch, Kibana
-- -- Coordinated an end-to-end project focused on earthquake visualization and correlation analysis with electric field data. Led the team in utilizing a suite of Big Data Tools to seamlessly acquire, integrate, preprocess, analyze, and visualize the data.
-- -- Leveraged real-time data streaming, advanced analytics, and interactive visualization techniques to uncover significant relationships between earthquakes and electric field data.
+**Yet Another Earthquake Project (YAEP)**, _Project Coordinator_ &nbsp;---&nbsp;
+<a href="https://github.com/burakai/EGAL_Yet-Another-Earthquake-Project" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>&nbsp;/ 
+<a href="https://github.com/burakai/curriculum-vitae/blob/4df7ad489b09836bd02abd516f6dd05520618fb8/papers/paper_2023_egal_yet-another-earthquake-project_v4.pdf" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
+- Tools & frameworks used: Apache NiFi, Apache Kafka, Apache Spark, AWS S3, Elasticsearch, Kibana
+- Coordinated an end-to-end project focused on earthquake visualization and correlation analysis with electric field data. Led the team in utilizing a suite of Big Data Tools to seamlessly acquire, integrate, preprocess, analyze, and visualize the data.
+- Leveraged real-time data streaming, advanced analytics, and interactive visualization techniques to uncover significant relationships between earthquakes and electric field data.
 
 `2023`
-**Multimodal MRI Data Segmentation Based on Swin-Unet**, _I_, &nbsp; --- &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>, &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
-- -- Tools & frameworks used: PyTorch, Swin-Unet, SimpleITK
-- -- Studied automated medical image segmentation using the Swin-Unet model. Achieved accurate results through data preprocessing, training, and GPU acceleration.
+**Multimodal MRI Data Segmentation Based on Swin-Unet**, _Personal Project_ &nbsp;---&nbsp;
+<a href="https://github.com/burakai/Segmentation-Based-on-Swin-Unet" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>&nbsp;/ 
+<a href="https://github.com/burakai/curriculum-vitae/blob/4df7ad489b09836bd02abd516f6dd05520618fb8/papers/paper_2023_segmentation-based-on-swin-unet.pdf" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
+- Tools & frameworks used: PyTorch, Swin-Unet, SimpleITK
+- Studied automated medical image segmentation using the Swin-Unet model. Achieved accurate results through data preprocessing, training, and GPU acceleration.
 
 `2023`
-**Age Regression from Brain MRI Images**, _I_, &nbsp; --- &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>, &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
-- -- Tools & frameworks used: Scikit-learn, SimpleITK
-- -- Compared various regression models, this project aims to accurately estimate patients’ ages based on their brain MRI images, providing valuable insights into brain development, aging processes, age-related pathologies, and aiding in the early detection of neurodegenerative disorders in medical research and practice.
+**Age Regression from Brain MRI Images**, _Personal Project_ &nbsp;---&nbsp;
+<a href="https://github.com/burakai/Age-Regression-from-Brain-MRI-Images" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>&nbsp;/ 
+<a href="https://github.com/burakai/curriculum-vitae/blob/4df7ad489b09836bd02abd516f6dd05520618fb8/papers/paper_2023_age-regression-from-brain-mri-images.pdf" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
+- Tools & frameworks used: Scikit-learn, SimpleITK
+- Compared various regression models, this project aims to accurately estimate patients’ ages based on their brain MRI images, providing valuable insights into brain development, aging processes, age-related pathologies, and aiding in the early detection of neurodegenerative disorders in medical research and practice.
 
 
-**Weld Defect Detection Using U-Net**, _I_, &nbsp; --- &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>, &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
-- -- Tools & frameworks used: PyTorch, U-Net
-- -- Utilized the GDXray dataset, specifically for weld X-ray images, and implemented the U-Net architecture.
+**Weld Defect Detection Using U-Net**, _Personal Project_ &nbsp;---&nbsp;
+<a href="https://github.com/burakai/Weld-Defect-Detection-with-U-Net" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>&nbsp;/ 
+<a href="https://github.com/burakai/curriculum-vitae/blob/4df7ad489b09836bd02abd516f6dd05520618fb8/papers/paper_2022_weld-defect-detection-using-u-net.pdf" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
+- Tools & frameworks used: PyTorch, U-Net
+- Utilized the GDXray dataset, specifically for weld X-ray images, and implemented the U-Net architecture.
 
 `2016`
-**Flaw Detection in Radiographic Weld Images Using Morphological Approach**, _I_, &nbsp; --- &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>, &nbsp; <a href="https://github.com/burakai/MOOZE" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
-- -- Tools & frameworks used: MATLAB, Image Processing Toolbox
-- -- Implemented an algorithm inspired by RS Anand and P Kumar’s research for flaw detection in radiographic weld images using a morphological approach. It aimed to provide an automated and robust method for flaw detection.
+**Flaw Detection in Radiographic Weld Images Using Morphological Approach**, _Personal Project_ &nbsp;---&nbsp;
+<a href="https://github.com/burakai/curriculum-vitae/blob/4df7ad489b09836bd02abd516f6dd05520618fb8/papers/paper_2016_flaw-detection-in-radiographic-weld-images-using-approach_rev1.1.pdf" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
+- Tools & frameworks used: MATLAB, Image Processing Toolbox
+- Implemented an algorithm inspired by RS Anand and P Kumar’s research for flaw detection in radiographic weld images using a morphological approach. It aimed to provide an automated and robust method for flaw detection.
 
 ## Technical Skills and Interests
 
@@ -150,12 +161,12 @@ Materials Science, Smart Manufacturing, Artificial Intelligence, Computer Vision
 
 -- Driving Licenses: A, A1, A2, B, B1, D1, F, M  
 -- CMAS ** SCUBA Diver, PADI Advanced Open Water Diver  
--- Google Developers Machine Learning Bootcamp (Google–inzva, 2023)  
--- TensorFlow Developer Certificate (Google, 2023)  
--- CAPM Preparation Training (PMI TR–ITU, 2023)  
--- Introduction to Big Data with Spark and Hadoop (IBM, Coursera, 2023)   
--- Introduction to Apache NiFi \| Cloudera DataFlow – HDF 2.0 (Udemy, 2023)  
--- Deep Learning Study Group (inzva, 2020)  
+-- <a href="https://github.com/burakai/curriculum-vitae/blob/525370377ce16bdd13980e2b96d08e05ffca4966/papers/cert_2023_google-developers_ml_bootcamp.pdf" target="_blank" rel="noopener noreferrer">Google Developers Machine Learning Bootcamp (Google–inzva, 2023) <i class="fa fa-external-link"></i></a>  
+-- <a href="https://www.credential.net/78698ddb-f853-4163-9af0-e40f4d96717f#acc.k3OIY0cv" target="_blank" rel="noopener noreferrer">TensorFlow Developer Certificate (Google, 2023) <i class="fa fa-external-link"></i></a>  
+-- <a href="https://github.com/burakai/curriculum-vitae/blob/525370377ce16bdd13980e2b96d08e05ffca4966/papers/cert_2023_pmi-itu_capm.png" target="_blank" rel="noopener noreferrer">CAPM Preparation Training (PMI TR–ITU, 2023) <i class="fa fa-external-link"></i></a>  
+-- <a href="https://coursera.org/share/a3112675bd11160d489fe789c635a00b" target="_blank" rel="noopener noreferrer">Introduction to Big Data with Spark and Hadoop (IBM, Coursera, 2023) <i class="fa fa-external-link"></i></a>  
+-- <a href="https://www.udemy.com/certificate/UC-f103e3b8-b3de-4776-a95f-a03c73fb5471/" target="_blank" rel="noopener noreferrer">Introduction to Apache NiFi \| Cloudera DataFlow – HDF 2.0 (Udemy, 2023) <i class="fa fa-external-link"></i></a>  
+-- <a href="https://github.com/burakai/curriculum-vitae/blob/525370377ce16bdd13980e2b96d08e05ffca4966/papers/cert_2020_inzva_deep-learning-study-group.pdf" target="_blank" rel="noopener noreferrer">Deep Learning Study Group (inzva, 2020) <i class="fa fa-external-link"></i></a>  
 -- Elevator Inspector Personnel (TSE, 2017)  
 -- Internal Auditor (KYS Consulting, 2014)  
 -- IMS Auditor (ISO 9001, ISO 14001, OHSAS 18001) (KYS Consulting, 2014)
