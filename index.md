@@ -4,7 +4,7 @@ title: Burak Kılıç
 ---
 
 <div class="cv-header">
-  <a href="https://github.com/burakai/curriculum-vitae/releases/download/v1.21.2/burak.pdf"
+  <a href="https://github.com/user-attachments/files/26546021/burak.pdf"
      class="hover-elephant"
      title="Download CV as PDF">
   </a>
