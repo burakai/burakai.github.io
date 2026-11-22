@@ -85,7 +85,7 @@ Certified by the International Institute of Welding (IIW)
 ## Projects
 
 `01/2026 – 12/2029`
-**IoT Supported Electronic Geotextiles for Sustainable and Smart Precision Agriculture**, _MSCA Fellow_ &nbsp;---&nbsp;
+**IoT Supported Electronic Geotextiles for Sustainable and Smart Precision Agriculture**, _MSCA Fellow_<br/>
 <a href="https://doi.org/10.3030/101235387" target="_blank" rel="noopener noreferrer">EU Horizon Project / Grant agreement ID: 101235387 (I-TEXGEO) <i class="fa fa-external-link"></i></a>
 - Participating in the EU Horizon Europe project as an MSCA fellow (Marie Skłodowska-Curie Actions).
 - Developing flexible e-textile electrochemical sensors for in-situ soil NPK monitoring using ion-selective electrodes (ISEs) with open-circuit potentiometric measurements.
@@ -93,54 +93,54 @@ Certified by the International Institute of Welding (IIW)
 - Performing electrochemical characterization (sensitivity, selectivity, stability) and supporting multi-site field validation campaigns across diverse soil environments.
 
 `06/2025 – 06/2028`
-**Development of an AI-Supported Soil Analysis, Monitoring, and Smart Fertilization System for Agricultural Applications Using IoT and E-Textile-Based Sensor Technology**, _Fellow_ &nbsp;---&nbsp;
+**Development of an AI-Supported Soil Analysis, Monitoring, and Smart Fertilization System for Agricultural Applications Using IoT and E-Textile-Based Sensor Technology**, _Fellow_<br/>
 TÜBİTAK 2247-A National Outstanding Researchers Program / Project No: 123C518
 - Designing data-driven soil analysis and monitoring frameworks using continuous sensor data acquired from IoT-enabled e-textile sensing systems.
 - Developing machine learning models to estimate soil nutrient dynamics and support smart fertilization strategies.
 
 `2024`
-**MOOZE**, _Personal Project_ &nbsp;---&nbsp;
+**MOOZE**, _Personal Project_<br/>
 <a href="https://github.com/burakai/mooze" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>
 - MOOZE is an open-source CLI app that interacts with OpenAI’s API to create and manage an AI assistant.
 - It is designed to respond in a user-specified style and help with questions related to a provided document(s).
 - Key features include functionalities for managing files, vector stores, and threads to facilitate interactions with the AI assistant.
 
 `2024`
-**ENGR4450 - Applied Artificial Intelligence Course Notes**, _Creator_ &nbsp;---&nbsp;
+**ENGR4450 - Applied Artificial Intelligence Course Notes**, _Creator_<br/>
 <a href="https://github.com/burakai/ENGR4450" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>
 - ENGR4450 - Applied Artificial Intelligence (AI), a course offered at Işık University.
 - The repo contains six Jupyter notebooks (tutorials) prepared by me.
 
 `2023`
-**Yet Another Earthquake Project (YAEP) by Team EGAL**, _Project Coordinator_ &nbsp;---&nbsp;
+**Yet Another Earthquake Project (YAEP) by Team EGAL**, _Project Coordinator_<br/>
 <a href="https://github.com/burakai/EGAL_Yet-Another-Earthquake-Project" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>&nbsp;/ 
 <a href="https://github.com/burakai/curriculum-vitae/blob/4df7ad489b09836bd02abd516f6dd05520618fb8/papers/paper_2023_egal_yet-another-earthquake-project_v4.pdf" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
 - Tools & frameworks used: Apache NiFi, Apache Kafka, Apache Spark, AWS S3, Elasticsearch, Kibana
 - Coordinated an end-to-end project focused on earthquake visualization and correlation analysis with electric field data. Led the team in utilizing a suite of Big Data Tools to seamlessly acquire, integrate, preprocess, analyze, and visualize the data. Leveraged real-time data streaming, advanced analytics, and interactive visualization techniques to uncover significant relationships between earthquakes and electric field data.
 
 `2023`
-**Multimodal MRI Data Segmentation Based on Swin-Unet**, _Personal Project_ &nbsp;---&nbsp;
+**Multimodal MRI Data Segmentation Based on Swin-Unet**, _Personal Project_<br/>
 <a href="https://github.com/burakai/Segmentation-Based-on-Swin-Unet" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>&nbsp;/ 
 <a href="https://github.com/burakai/curriculum-vitae/blob/4df7ad489b09836bd02abd516f6dd05520618fb8/papers/paper_2023_segmentation-based-on-swin-unet.pdf" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
 - Tools & frameworks used: PyTorch, Swin-Unet, SimpleITK
 - Studied automated medical image segmentation using the Swin-Unet model. Achieved accurate results through data preprocessing, training, and GPU acceleration.
 
 `2023`
-**Age Regression from Brain MRI Images**, _Personal Project_ &nbsp;---&nbsp;
+**Age Regression from Brain MRI Images**, _Personal Project_<br/>
 <a href="https://github.com/burakai/Age-Regression-from-Brain-MRI-Images" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>&nbsp;/ 
 <a href="https://github.com/burakai/curriculum-vitae/blob/4df7ad489b09836bd02abd516f6dd05520618fb8/papers/paper_2023_age-regression-from-brain-mri-images.pdf" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
 - Tools & frameworks used: Scikit-learn, SimpleITK
 - Compared various regression models, this project aims to accurately estimate patients’ ages based on their brain MRI images, providing valuable insights into brain development, aging processes, age-related pathologies, and aiding in the early detection of neurodegenerative disorders in medical research and practice.
 
 `2022`
-**Weld Defect Detection Using a Small Dataset with U-Net**, _Personal Project_ &nbsp;---&nbsp;
+**Weld Defect Detection Using a Small Dataset with U-Net**, _Personal Project_<br/>
 <a href="https://github.com/burakai/Weld-Defect-Detection-with-U-Net" target="_blank" rel="noopener noreferrer">Repository <i class="fab fa-github"></i></a>&nbsp;/ 
 <a href="https://github.com/burakai/curriculum-vitae/blob/4df7ad489b09836bd02abd516f6dd05520618fb8/papers/paper_2022_weld-defect-detection-using-u-net.pdf" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
 - Tools & frameworks used: PyTorch, U-Net
 - Utilized the GDXray dataset, specifically for weld X-ray images, and implemented the U-Net architecture.
 
 `2016`
-**Flaw Detection in Radiographic Weld Images Using Morphological Approach**, _Personal Project_ &nbsp;---&nbsp;
+**Flaw Detection in Radiographic Weld Images Using Morphological Approach**, _Personal Project_<br/>
 <a href="https://github.com/burakai/curriculum-vitae/blob/4df7ad489b09836bd02abd516f6dd05520618fb8/papers/paper_2016_flaw-detection-in-radiographic-weld-images-using-approach_rev1.1.pdf" target="_blank" rel="noopener noreferrer">Paper <i class="fas fa-file"></i></a>
 - Tools & frameworks used: MATLAB, Image Processing Toolbox
 - Implemented an algorithm inspired by RS Anand and P Kumar’s research for flaw detection in radiographic weld images using a morphological approach. It aimed to provide an automated and robust method for flaw detection.
