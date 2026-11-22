@@ -20,7 +20,7 @@
     (function () {
       var el = document.querySelector('.pronunciation');
       if (!el) return;
-      var audio = new Audio('assets/name-pronunciation.m4a?v=1');
+      var audio = new Audio('assets/name-pronunciation.m4a?v=2');
       audio.preload = 'auto';
       audio.addEventListener('play', function () { el.classList.add('speaking'); });
       audio.addEventListener('ended', function () { el.classList.remove('speaking'); });
