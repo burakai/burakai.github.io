@@ -10,8 +10,7 @@ title: Burak Kılıç
   </a>
 </div>
 
-# Burak Kılıç
-<span class="pronunciation" title="How to pronounce my name">/buˈɾak kɯˈɫɯtʃ/ · boo-RAHK kuh-LUTCH</span><br/>
+# Burak Kılıç <span class="pronunciation">/buˈɾak kɯˈɫɯtʃ/ · boo-RAHK kuh-LUTCH</span>
 Ph.D. Candidate, Istanbul Technical University<br/>
 Istanbul, Türkiye<br/><br/>
 
