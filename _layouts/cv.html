@@ -16,23 +16,19 @@
     </div>
   </div>
   <script>
-    // Speak the name when the pronunciation hint is hovered, clicked or activated by keyboard
+    // Play the name recording when the pronunciation hint is clicked or activated by keyboard
     (function () {
       var el = document.querySelector('.pronunciation');
-      if (!el || !('speechSynthesis' in window)) return;
+      if (!el) return;
+      var audio = new Audio('assets/name-pronunciation.m4a?v=1');
+      audio.preload = 'auto';
+      audio.addEventListener('play', function () { el.classList.add('speaking'); });
+      audio.addEventListener('ended', function () { el.classList.remove('speaking'); });
+      audio.addEventListener('pause', function () { el.classList.remove('speaking'); });
       function speak() {
-        if (speechSynthesis.speaking) return;
-        var u = new SpeechSynthesisUtterance('Burak Kılıç');
-        u.lang = 'tr-TR';
-        u.rate = 0.85;
-        var tr = speechSynthesis.getVoices().filter(function (v) { return /^tr/i.test(v.lang); })[0];
-        if (tr) u.voice = tr;
-        u.onstart = function () { el.classList.add('speaking'); };
-        u.onend = u.onerror = function () { el.classList.remove('speaking'); };
-        speechSynthesis.speak(u);
+        audio.currentTime = 0;
+        audio.play().catch(function () {});
       }
-      speechSynthesis.getVoices();
-      el.addEventListener('mouseenter', speak);
       el.addEventListener('click', speak);
       el.addEventListener('keydown', function (e) {
         if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); speak(); }
