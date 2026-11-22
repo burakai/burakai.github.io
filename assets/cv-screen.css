@@ -263,3 +263,20 @@ strong {
 		font-size: 2.5em;
 	}
 }
+/* Keep long entry titles from running under the right-aligned date */
+p:has(> code) {
+	box-sizing: border-box;
+	padding-right: 9.5em;
+}
+
+@media (max-width: 768px) {
+	p:has(> code) {
+		padding-right: 0;
+	}
+
+	p code {
+		position: static;
+		display: block;
+		text-align: left;
+	}
+}
