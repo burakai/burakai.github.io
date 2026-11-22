@@ -3,8 +3,8 @@
 <head>
   <meta charset=utf-8 />
   <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
-  <link href="assets/cv-screen.css?v=4" type="text/css" rel="stylesheet" media="screen">
-  <link href="assets/cv-print.css?v=4" type="text/css" rel="stylesheet" media="print">
+  <link href="assets/cv-screen.css?v=5" type="text/css" rel="stylesheet" media="screen">
+  <link href="assets/cv-print.css?v=5" type="text/css" rel="stylesheet" media="print">
   <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous"> -->
   <script src="https://kit.fontawesome.com/4f661f1f34.js" crossorigin="anonymous"></script>
   <!-- <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css"> -->
@@ -15,5 +15,29 @@
     {{ content }}
     </div>
   </div>
+  <script>
+    // Speak the name when the pronunciation hint is hovered, clicked or activated by keyboard
+    (function () {
+      var el = document.querySelector('.pronunciation');
+      if (!el || !('speechSynthesis' in window)) return;
+      function speak() {
+        if (speechSynthesis.speaking) return;
+        var u = new SpeechSynthesisUtterance('Burak Kılıç');
+        u.lang = 'tr-TR';
+        u.rate = 0.85;
+        var tr = speechSynthesis.getVoices().filter(function (v) { return /^tr/i.test(v.lang); })[0];
+        if (tr) u.voice = tr;
+        u.onstart = function () { el.classList.add('speaking'); };
+        u.onend = u.onerror = function () { el.classList.remove('speaking'); };
+        speechSynthesis.speak(u);
+      }
+      speechSynthesis.getVoices();
+      el.addEventListener('mouseenter', speak);
+      el.addEventListener('click', speak);
+      el.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); speak(); }
+      });
+    })();
+  </script>
 </body>
 </html>
