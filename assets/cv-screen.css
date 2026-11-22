@@ -263,20 +263,18 @@ strong {
 		font-size: 2.5em;
 	}
 }
-/* Keep long entry titles from running under the right-aligned date */
-p:has(> code) {
-	box-sizing: border-box;
-	padding-right: 9.5em;
+/* Float dates right so long entry titles wrap around them instead of running underneath */
+p code {
+	position: static;
+	float: right;
+	margin-left: 1.5em;
 }
 
 @media (max-width: 768px) {
-	p:has(> code) {
-		padding-right: 0;
-	}
-
 	p code {
-		position: static;
+		float: none;
 		display: block;
+		margin-left: 0;
 		text-align: left;
 	}
 }
